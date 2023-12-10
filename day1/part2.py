@@ -34,9 +34,4 @@ for line in lines:
     print(f"{line} => {line_nums}")
     sum += line_nums[0] * 10 + line_nums[-1]   
             
-
-
 print(sum)
-
-# 55738 error
-# 55701 wait upload
